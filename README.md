@@ -1,5 +1,7 @@
-# 🐍 Olá!
+# Oi
+
+:shipit: Ajudo a construir produtos escrevendo código.
 
 👨🏻‍💻 Trabalho pra ter menos trabalho.
 
-:shipit: Tento escrever códigos simples.
+🐍 Gosto de Python.
